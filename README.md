@@ -1,3 +1,5 @@
+<img src="./assets/icons/icon-x.png" width="75" alt="Workflow icon">
+
 # Cross out me!
 ![v1.0.0](https://img.shields.io/badge/Version-v1.0.0-informational)
 ![Maintenance](https://img.shields.io/maintenance/yes/2023)  
